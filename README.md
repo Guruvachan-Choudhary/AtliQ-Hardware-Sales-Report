@@ -1,6 +1,6 @@
 # AtliQ-Hardware-Sales-Report
 
-Project Overview
+## Project Overview
 
 The Atliq Hardware Sales Performance Report provides a comprehensive analysis of the company's net sales across various customer segments. This report helps stakeholders understand sales trends and performance metrics, enabling data-driven decision-making.
 
