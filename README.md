@@ -26,7 +26,7 @@ DAX (Data Analysis Expressions): Custom calculations and measures.
 
 ETL Process: Extract, Transform, Load for data cleaning and transformation.
 
-Data Modeling
+Data Modeling.
 
 ## Project Structure
 
