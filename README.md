@@ -4,7 +4,7 @@
 
 The Atliq Hardware Sales Performance Report provides a comprehensive analysis of the company's net sales across various customer segments. This report helps stakeholders understand sales trends and performance metrics, enabling data-driven decision-making.
 
-🔍 Features
+## Features
 
 Detailed Sales Analysis: Breakdown of net sales performance by product categories and customer segments.
 
@@ -16,7 +16,7 @@ Data Modeling: Structured data models built to support dynamic reporting.
 
 DAX Calculations: Custom measures using DAX functions like FORMAT and SUM to enhance data analysis.
 
-🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 Microsoft Excel: Data analysis, modeling, and visualization.
 
@@ -26,7 +26,9 @@ DAX (Data Analysis Expressions): Custom calculations and measures.
 
 ETL Process: Extract, Transform, Load for data cleaning and transformation.
 
-📂 Project Structure
+Data Modeling
+
+## Project Structure
 
 Atliq-Hardware-Report/
 ├── Data/
