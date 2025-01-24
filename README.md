@@ -28,13 +28,4 @@ ETL Process: Extract, Transform, Load for data cleaning and transformation.
 
 Data Modeling.
 
-## Project Structure
-
-Atliq-Hardware-Report/
-├── Data/
-│   └── Raw and Cleaned Data Files
-├── Visualizations/
-│   └── Sales Performance Charts
-├── Report.pdf
-└── README.md
 
